@@ -1,0 +1,2 @@
+# hardhat smart contract lottery
+ 
